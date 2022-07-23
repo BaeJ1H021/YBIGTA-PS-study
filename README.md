@@ -16,7 +16,7 @@
 
 ## 깃헙 레포지토리 링크
 - 공동: https://github.com/BaeJ1H021/YBIGTA-PS-study
-- 김연재: https://github.com/yonjaeee/PS
+- 김연재: https://github.com/yonjaeee/AlgorithmStudy
 - 유동욱: https://github.com/jack-yu-dw/PS
 - 배지호: https://github.com/BaeJ1H021/PS
 - 주현경: https://github.com/
